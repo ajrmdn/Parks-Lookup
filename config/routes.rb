@@ -9,6 +9,12 @@ Rails.application.routes.draw do
     end
   end
 
+  concern :api_base do
+    get "nationals/random" => 'nationals#random'
+    resources :nationals do
+    end
+  end
+
   namespace :v1 do
     concerns :api_base
   end
