@@ -1,24 +1,40 @@
-# README
+# Parks Lookup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This program helps users search and find state and national parks, with their reviews.
 
-Things you may want to cover:
+#### By Abdellah Ramadan on August 23rd, 2019.
 
-* Ruby version
+## Description
 
-* System dependencies
+The website can be used to search and find state and national parks, with their reviews.
 
-* Configuration
+## Setup/Installation Requirements
 
-* Database creation
+* Clone this repo to your desktop.
+* Change directories in terminal to this project's folder.
 
-* Database initialization
 
-* How to run the test suite
+## Known Bugs
 
-* Services (job queues, cache servers, search engines, etc.)
+There are no known bugs at this time.
 
-* Deployment instructions
+## Support and contact details
 
-* ...
+If you encounter any issues using this software or have comments please e-mail at:
+
+* Abdellah Ramadan: ajrmdn@gmail.com
+
+
+## Technologies Used
+
+* ruby
+* rails
+* factorybot
+* cors
+* 
+
+### License
+
+This software is license under the MIT license.
+
+Copyright (c) 2019 **by: Abdellah Ramadan**
